@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=7u1miYJmJ_4
 gpedit.msc
 ->
 Computer Configuration
+Administrative Templates
 Network
 QoSPacket Scheduler
 Limit reservable badwidth
